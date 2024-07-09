@@ -6,4 +6,4 @@
 
 🎓 Starting my 5th year on computer science at Norwegian University of Science and Technology. I will be writing my master thesis about responsible business AI.
 
- 🔗 [LinkedIn](https://www.linkedin.com/in/lea-jahren/)
+ 🔗 Contact me on [LinkedIn](https://www.linkedin.com/in/lea-jahren/)
