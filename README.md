@@ -1,6 +1,6 @@
 ## Hello you 👋
 
-🌱 I’m currently working in a startup called Yobr where i'm buidling their product with Next.js, Tailwind css and working with LLM.
+🌱 I’m currently working in a startup called Yobr where i'm buidling their product with Next.js, Tailwind css and working RAG solutions.
 
 🖥️ Early this summer I worked at omegapoint with .NET 8 and Blazor.
 
