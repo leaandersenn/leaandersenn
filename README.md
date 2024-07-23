@@ -1,8 +1,8 @@
 ## Hello you 👋
 
-🌱 I’m currently working in a startup called Yobr where i'm buidling their product with Next.js, Tailwind css and working RAG solutions.
+🙍🏽‍♀️ I’m currently working as a fullstack developer in a startup called Yobr, working with Next.js, tailwind CSS and supabase.
 
-🖥️ Early this summer I worked at omegapoint with .NET 8 and Blazor.
+🖥️ Early this summer I worked at omegaPoint with .NET 8 and Blazor.
 
 🎓 Starting my 5th year on computer science at Norwegian University of Science and Technology. I will be writing my master thesis about responsible business AI.
 
